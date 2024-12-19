@@ -10,3 +10,5 @@ python /Users/kotaro/slackbot-dify01/difyapp01.py
 - venvファイルを作成
 python3 -m venv venv
 source venv/bin/activate
+#(.venv)を抜ける時
+deactivate
